@@ -1,0 +1,15 @@
+---
+- id: 345
+  name: Alice
+  address:
+    city: LA
+    street: T. Anderson
+    building: 9
+- id: 987
+  name: Oskar
+  address:
+    city: Texas
+    street: Winner
+    building: 77
+- id: 456
+  name: Ann

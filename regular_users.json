@@ -1,0 +1,26 @@
+[
+  {
+    "id": 345,
+    "name": "Alice",
+    "address": {
+      "city": "LA",
+      "street": "T.Anderson",
+      "building": 9
+    }
+  },
+  {
+    "id": 456,
+    "name": "Ann",
+    "address": {
+    }
+  },
+  {
+    "id": 987,
+    "name": "Oscar",
+    "address": {
+      "city": "Texas",
+      "street": "Winner",
+      "building": 77
+    }
+  }
+]
